@@ -1,0 +1,4 @@
+[
+{ "key": "ctrl+shift+s",          "command": "workbench.action.files.saveAll" },
+{ "key": "ctrl+k ctrl+d",         "command": "editor.action.format", "when": "editorTextFocus" }
+]
