@@ -14,8 +14,14 @@ The goal of this project is to map all Visual Studio shortcuts to Visual Studio 
 
 The <i>settings.json</i> and <i>keybbindings.json</i> files are located in <i>C:\Users\username\AppData\Roaming\Code\User</i>.
 
-To keep these settings in sync with with this github repository, simply clone this repository into that directory.
+You can manually edit these files yourself, or clone this repo directly into that directory using the following:
 
 ```
-git clone https://github.com/davidjpfeiffer/css-utility.git
+git clone https://github.com/davidjpfeiffer/vscode-config.git .
+```
+
+If you chose this method, you can easily keep your files in sync with this repository using the following:
+
+```
+git pull
 ```
