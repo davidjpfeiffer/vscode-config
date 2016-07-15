@@ -13,5 +13,12 @@
         "Startup.cs": true,
         "Website.xproj*": true,
         "appsettings.json": true
-    }
+    },
+    "editor.tabSize": 4,
+    "editor.wrappingColumn": -1,
+    "editor.detectIndentation": false,
+    "editor.scrollBeyondLastLine": false,
+    "files.trimTrailingWhitespace": true,
+    "html.format.wrapLineLength": 0,
+    "html.format.indentHandlebars": true
 }
