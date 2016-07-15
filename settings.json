@@ -14,7 +14,7 @@
         "Website.xproj*": true,
         "appsettings.json": true
     },
-    "editor.tabSize": 4,
+    "editor.tabSize": 2,
     "editor.wrappingColumn": -1,
     "editor.detectIndentation": false,
     "editor.scrollBeyondLastLine": false,
