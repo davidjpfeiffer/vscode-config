@@ -3,6 +3,7 @@
     "files.exclude": {
         "**/.git": true,
         "**/.DS_Store": true,
+        "**/*.exe": true,
        "artifacts/": true,
         "node_modules/": true,
         "wwwroot/": true,
