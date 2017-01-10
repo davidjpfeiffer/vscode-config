@@ -6,4 +6,4 @@ This repository is regularly updated with settings, keybindings, and plugins for
 
 - [Improved Sass Plugin](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 - [Improved Icons Plugin](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
-- [Spelling and Grammar Chacker Plugin](https://marketplace.visualstudio.com/items?itemName=seanmcbreen.Spell)
+- [Spelling and Grammar Checker Plugin](https://marketplace.visualstudio.com/items?itemName=seanmcbreen.Spell)
