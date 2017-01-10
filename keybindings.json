@@ -1,5 +1,12 @@
 // Place your key bindings in this file to overwrite the defaults
 [
-{ "key": "ctrl+shift+s",          "command": "workbench.action.files.saveAll" },
-{ "key": "ctrl+k ctrl+d",         "command": "editor.action.formatDocument", "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly" }
+  {
+    "key": "ctrl+shift+s",
+    "command": "workbench.action.files.saveAll"
+  },
+  {
+    "key": "ctrl+k ctrl+d",
+    "command": "editor.action.formatDocument",
+    "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
+  }
 ]
