@@ -1,25 +1,26 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "files.exclude": {
-        "**/.git": true,
-        "**/.DS_Store": true,
-        "**/*.exe": true,
-       "artifacts/": true,
-        "node_modules/": true,
-        "wwwroot/": true,
-        ".vscode/": true,
-        "Properties/": true,
-        "project*.json": true,
-        "Settings.StyleCop": true,
-        "Startup.cs": true,
-        "Website.xproj*": true,
-        "appsettings.json": true
-    },
-    "editor.tabSize": 2,
-    "editor.wrappingColumn": -1,
-    "editor.detectIndentation": false,
-    "editor.scrollBeyondLastLine": false,
-    "files.trimTrailingWhitespace": true,
-    "html.format.wrapLineLength": 0,
-    "html.format.indentHandlebars": true
+  "files.exclude": {
+    "**/dist": true,
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "artifacts/": true,
+    "node_modules/": true,
+    "wwwroot/": true,
+    ".vscode/": true,
+    "Properties/": true,
+    "project*.json": true,
+    "Settings.StyleCop": true,
+    "Startup.cs": true,
+    "Website.xproj*": true,
+    "appsettings.json": true
+  },
+  "editor.tabSize": 2,
+  "editor.wrappingColumn": -1,
+  "editor.detectIndentation": false,
+  "editor.scrollBeyondLastLine": false,
+  "files.trimTrailingWhitespace": true,
+  "html.format.wrapLineLength": 0,
+  "html.format.indentHandlebars": true,
+  "files.autoSave": "off"
 }
