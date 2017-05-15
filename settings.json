@@ -16,7 +16,6 @@
     "appsettings.json": true
   },
   "editor.tabSize": 2,
-  "editor.wrappingColumn": -1,
   "editor.detectIndentation": false,
   "editor.scrollBeyondLastLine": false,
   "files.trimTrailingWhitespace": true,
