@@ -6,5 +6,4 @@ This repository is regularly updated with settings, keybindings, and plugins for
 
 - [Improved Sass Plugin](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 - [Improved Icons Plugin](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
-- [Code Spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
