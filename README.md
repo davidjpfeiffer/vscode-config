@@ -7,4 +7,5 @@ This repository is regularly updated with settings, keybindings, and plugins for
 - [Improved Sass Plugin](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 - [Improved Icons Plugin](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
 - [Typescript Intellisense](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
