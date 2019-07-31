@@ -1,3 +1,4 @@
+
 {
     "files.exclude": {
       "**/dist": true,
@@ -13,7 +14,12 @@
       "Settings.StyleCop": true,
       "Startup.cs": true,
       "Website.xproj*": true,
-      "appsettings.json": true
+      "appsettings.json": true,
+      "coverage": true,
+      "test_reports": true,
+      "test_screenshots": true,
+      "selenium-debug.log": true,
+      "selenium-server.log": true
     },
     "editor.tabSize": 2,
     "editor.detectIndentation": false,
