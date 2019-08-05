@@ -29,5 +29,6 @@
     "html.format.indentHandlebars": true,
     "files.autoSave": "off",
     "explorer.confirmDragAndDrop": false,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "typescript.preferences.importModuleSpecifier": "relative"
   }
