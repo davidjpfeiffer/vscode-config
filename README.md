@@ -1,8 +1,8 @@
-# VS Code Config
+# Visual Studio Code Configuration
 
-This repository is regularly updated with settings, keybindings, and plugins for Visual Studio Code that are designed for front end web developers. Feel free to make suggestions.
+This repository documents the settings, keybindings, and extensions that I use in Visual Studio Code. I highly recommend this configuration, or a similar configuration, for all lots of frontend web developers. Feel free to make suggestions!
 
-#### Plugin List
+#### Extensions
 
 - [Improved Sass Plugin](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 - [Improved Icons Plugin](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
