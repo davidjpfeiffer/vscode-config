@@ -1,6 +1,6 @@
 # Visual Studio Code Configuration
 
-This repository documents the settings, keybindings, and extensions that I use in Visual Studio Code. I highly recommend this configuration, or a similar configuration, for all lots of frontend web developers. Feel free to make suggestions!
+This repository documents the settings, keybindings, and extensions that I use in Visual Studio Code. I highly recommend this configuration, or a similar configuration, for other frontend web developers. Feel free to make suggestions!
 
 #### Extensions
 
