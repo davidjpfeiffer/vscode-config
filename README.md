@@ -4,8 +4,7 @@ This repository documents the settings, keybindings, and extensions that I use i
 
 #### Extensions
 
-- [Improved Sass Plugin](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
+- [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 - [Improved Icons Plugin](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
-- [Typescript Intellisense](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
